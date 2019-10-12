@@ -1,6 +1,9 @@
+// Frederick Wittman
+// W 08288149
+// I wasn't able to test this with node.js in the environment you suggested.  It should run just fine, however.  If not, have mercy.
+
 // Shares the algorithm, but not the code, found at:
 // https://www.geeksforgeeks.org/in-place-merge-sort/
- 
 function merge(arr, lo, mid, hi)
 {
  
